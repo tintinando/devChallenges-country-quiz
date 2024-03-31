@@ -2,6 +2,8 @@
 
 This repository contains a practice for [devChallenges](https://devchallenges.io/challenge/country-quizz)
 
+### [Demo link](https://tintix-devch-country-quiz.netlify.app/)
+
 ### Technology
 
 - Vite + React JS with libraries:
