@@ -1,0 +1,13 @@
+.usr-main {
+  background-image: url('/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.usr-gradient {
+  background-image: linear-gradient(to right, #E65895, #BC6BE8);
+}
+
+.hover-usr-gradient:hover {
+  background-image: linear-gradient(to right, #E65895, #BC6BE8);
+}
